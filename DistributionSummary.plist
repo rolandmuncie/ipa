@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string></string>
+				<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
 				<key>dateExpires</key>
-				<string></string>
+				<string>3/28/20</string>
 				<key>type</key>
-				<string>Unknown</string>
+				<string>iOS Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string></string>
+						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
 						<key>dateExpires</key>
-						<string></string>
+						<string>3/28/20</string>
 						<key>type</key>
-						<string>Unknown</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>Charts.framework</string>
@@ -52,11 +52,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string></string>
+						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
 						<key>dateExpires</key>
-						<string></string>
+						<string>3/28/20</string>
 						<key>type</key>
-						<string>Unknown</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>PureLayout.framework</string>
@@ -76,11 +76,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string></string>
+						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
 						<key>dateExpires</key>
-						<string></string>
+						<string>3/28/20</string>
 						<key>type</key>
-						<string>Unknown</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>Starscream.framework</string>
@@ -100,11 +100,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string></string>
+						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
 						<key>dateExpires</key>
-						<string></string>
+						<string>3/28/20</string>
 						<key>type</key>
-						<string>Unknown</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>SwiftHTTP.framework</string>
@@ -124,11 +124,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string></string>
+						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
 						<key>dateExpires</key>
-						<string></string>
+						<string>3/28/20</string>
 						<key>type</key>
-						<string>Unknown</string>
+						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
 					<string>SwiftyGif.framework</string>
@@ -141,8 +141,28 @@
 					</dict>
 				</dict>
 			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>64MG5T4F63.com.lilly.ct3follow8</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>64MG5T4F63</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>64MG5T4F63.com.lilly.ct3follow8</string>
+				</array>
+			</dict>
 			<key>name</key>
 			<string>ct3follow.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>dd05115d-2111-4701-bf3a-c8c93b96c5e3</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
 			<key>team</key>
 			<dict>
 				<key>id</key>
