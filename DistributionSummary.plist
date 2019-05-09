@@ -83,6 +83,30 @@
 						<string>iOS Development</string>
 					</dict>
 					<key>name</key>
+					<string>SideMenu.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64MG5T4F63</string>
+						<key>name</key>
+						<string>Roland Hartich</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<key>dateExpires</key>
+						<string>3/28/20</string>
+						<key>type</key>
+						<string>iOS Development</string>
+					</dict>
+					<key>name</key>
 					<string>Starscream.framework</string>
 					<key>team</key>
 					<dict>
@@ -159,7 +183,7 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>dd05115d-2111-4701-bf3a-c8c93b96c5e3</string>
+				<string>e4c393b2-9ed5-4e7d-8a8d-607939691e55</string>
 				<key>name</key>
 				<string>iOS Team Provisioning Profile: *</string>
 			</dict>
