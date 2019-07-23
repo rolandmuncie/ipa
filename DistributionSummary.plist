@@ -240,24 +240,22 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>64MG5T4F63.com.lilly.ct3follow8</string>
+				<string>64MG5T4F63.com.lilly.ct3follow7</string>
+				<key>aps-environment</key>
+				<string>development</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>64MG5T4F63</string>
 				<key>get-task-allow</key>
 				<true/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>64MG5T4F63.com.lilly.ct3follow8</string>
-				</array>
 			</dict>
 			<key>name</key>
 			<string>ct3follow.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>4e11bcb3-b4d2-45b1-ae11-05fe978fa5c5</string>
+				<string>14506eed-07eb-43b2-b5b5-d00b20e04de3</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: *</string>
+				<string>iOS Team Provisioning Profile: com.lilly.ct3follow7</string>
 			</dict>
 			<key>team</key>
 			<dict>
