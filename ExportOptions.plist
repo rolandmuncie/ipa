@@ -13,7 +13,7 @@
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/rolandmuncie/ipa/master/p1.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://raw.githubusercontent.com/rolandmuncie/ipa/master/p2.png</string>
+		<string>https://raw.githubusercontent.com/rolandmuncie/ipa/master/p2png</string>
 	</dict>
 	<key>method</key>
 	<string>development</string>
