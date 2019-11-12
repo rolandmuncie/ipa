@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/rolandmuncie/ipa/blob/master/ct3follow.ipa?raw=true</string>
+		<string>https://github.com/rolandmuncie/ipa/blob/master/ct3follow.ipa?raw=true&lt;</string>
 		<key>displayImageURL</key>
 		<string>https://raw.githubusercontent.com/rolandmuncie/ipa/master/p1.png</string>
 		<key>fullSizeImageURL</key>
