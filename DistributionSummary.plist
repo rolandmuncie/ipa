@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+				<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 				<key>dateExpires</key>
-				<string>3/28/20</string>
+				<string>4/6/21</string>
 				<key>type</key>
 				<string>iOS Development</string>
 			</dict>
@@ -28,9 +28,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -52,9 +52,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -76,9 +76,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -100,9 +100,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -124,9 +124,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -148,9 +148,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -172,9 +172,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -196,9 +196,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>46C24D07B57A4BD2DE5C0A6611268728061FF209</string>
+						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
 						<key>dateExpires</key>
-						<string>3/28/20</string>
+						<string>4/6/21</string>
 						<key>type</key>
 						<string>iOS Development</string>
 					</dict>
@@ -217,19 +217,21 @@
 			<dict>
 				<key>application-identifier</key>
 				<string>64MG5T4F63.com.lilly.ct3follow7</string>
-				<key>aps-environment</key>
-				<string>development</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>64MG5T4F63</string>
 				<key>get-task-allow</key>
 				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>64MG5T4F63.com.lilly.ct3follow7</string>
+				</array>
 			</dict>
 			<key>name</key>
 			<string>ct3follow.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>d6976e62-0d0a-4cc7-a229-9973df0104a0</string>
+				<string>595ed96f-3b45-4ef4-9e7e-c01570b91658</string>
 				<key>name</key>
 				<string>iOS Team Provisioning Profile: com.lilly.ct3follow7</string>
 			</dict>
