@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/rolandmuncie/ipa/blob/master/ct3follow.ipa?raw=true</string>
+					<string>https://github.com/rolandmuncie/ipa/blob/master/MealTrackingPilot.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lilly.ct3follow7</string>
+				<string>com.lnt.Lilly-Callisto2.0Dev2</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>7.0</string>
 				<key>kind</key>
 				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>ct3follow</string>
+				<string>MealTrackingPilot</string>
 			</dict>
 		</dict>
 	</array>
