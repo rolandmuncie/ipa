@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ct3follow.ipa</key>
+	<key>MealTrackingPilot.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -12,11 +12,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+				<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 				<key>dateExpires</key>
-				<string>4/6/21</string>
+				<string>8/26/21</string>
 				<key>type</key>
-				<string>iOS Development</string>
+				<string>Apple Development</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -28,11 +28,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
 					<string>Alamofire.framework</string>
@@ -52,14 +52,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>DateTimePicker.framework</string>
+					<string>IP_UIKit_Wisdom.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -76,14 +76,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>LCUIComponents.framework</string>
+					<string>Intrepid.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -100,14 +100,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>M13Checkbox.framework</string>
+					<string>KeychainAccess.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -124,14 +124,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>PDFExporter.framework</string>
+					<string>MBProgressHUD.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -148,14 +148,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>PureLayout.framework</string>
+					<string>Realm.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -172,14 +172,14 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>SideMenu.framework</string>
+					<string>RealmSwift.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -196,14 +196,110 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>8CFED0DB5D6F93528F608F5D839E52BC2AA550E3</string>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
 						<key>dateExpires</key>
-						<string>4/6/21</string>
+						<string>8/26/21</string>
 						<key>type</key>
-						<string>iOS Development</string>
+						<string>Apple Development</string>
 					</dict>
 					<key>name</key>
-					<string>Starscream.framework</string>
+					<string>RxCocoa.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64MG5T4F63</string>
+						<key>name</key>
+						<string>Roland Hartich</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
+						<key>dateExpires</key>
+						<string>8/26/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>RxRealm.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64MG5T4F63</string>
+						<key>name</key>
+						<string>Roland Hartich</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
+						<key>dateExpires</key>
+						<string>8/26/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>RxSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64MG5T4F63</string>
+						<key>name</key>
+						<string>Roland Hartich</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
+						<key>dateExpires</key>
+						<string>8/26/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>64MG5T4F63</string>
+						<key>name</key>
+						<string>Roland Hartich</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>E949018C33ED18D0E3D605F5CCB10C252E05E20D</string>
+						<key>dateExpires</key>
+						<string>8/26/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>TPKeyboardAvoiding.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -216,24 +312,26 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>64MG5T4F63.com.lilly.ct3follow7</string>
+				<string>64MG5T4F63.com.lnt.Lilly-Callisto2.0Dev2</string>
+				<key>com.apple.developer.healthkit</key>
+				<true/>
+				<key>com.apple.developer.healthkit.access</key>
+				<array>
+					<string>health-records</string>
+				</array>
 				<key>com.apple.developer.team-identifier</key>
 				<string>64MG5T4F63</string>
 				<key>get-task-allow</key>
 				<true/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>64MG5T4F63.com.lilly.ct3follow7</string>
-				</array>
 			</dict>
 			<key>name</key>
-			<string>ct3follow.app</string>
+			<string>MealTrackingPilot.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>700ba813-404e-4fc5-8f0e-75f9ee06b209</string>
+				<string>c46e4778-bb72-43c7-99eb-516b883e8f75</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: com.lilly.ct3follow7</string>
+				<string>iOS Team Provisioning Profile: com.lnt.Lilly-Callisto2.0Dev2</string>
 			</dict>
 			<key>team</key>
 			<dict>
