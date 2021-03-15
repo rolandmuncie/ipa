@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/rolandmuncie/ipa/blob/master/MealTrackingPilot.ipa?raw=true</string>
+					<string>https://github.com/pmysore/ipa/blob/master/Callisto.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/rolandmuncie/ipa/master/p1.png</string>
+					<string>https://raw.githubusercontent.com/pmysore/ipa/master/p1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/rolandmuncie/ipa/master/p2.png</string>
+					<string>https://raw.githubusercontent.com/pmysore/ipa/master/p2.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lnt.Lilly-Callisto2.0Dev2</string>
+				<string>com.lilly.accenture.callisto</string>
 				<key>bundle-version</key>
 				<string>7.0</string>
 				<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>MealTrackingPilot</string>
+				<string>Callisto</string>
 			</dict>
 		</dict>
 	</array>
